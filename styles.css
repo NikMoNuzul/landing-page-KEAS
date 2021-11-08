@@ -80,8 +80,8 @@ header {
 }
 
 .logo > img {
-  width: 40%;
-  height: 40%;
+  width: 35%;
+  height: 35%;
   max-width: 300px;
   display: flex;
   justify-content: center;
